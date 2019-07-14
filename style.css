@@ -13,16 +13,14 @@ img {
   margin: 0 auto;
 }
 
-nav a {
+nav, figcaption {
   text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: grey;
 }
 
-figcaption {
-  font-size: 5px;
-  text-align: center;
+nav a {
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0 auto;
 }
 
 #featured-property p {
